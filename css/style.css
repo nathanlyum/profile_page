@@ -1,0 +1,16 @@
+body{
+		background-color: aqua;
+	}
+		h1{
+		color: blue;
+		font-size: 30px;
+	}
+	li{
+
+		font-size: 20px;
+		color: green;
+	}
+	#pic{
+		width: 250px;
+		height: 175px;
+	}
